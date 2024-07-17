@@ -1,0 +1,14 @@
+.listaSuspensa{
+    margin: 24px 0;
+}
+
+.listaSuspensa select{
+    background-color: var(--cor-preto-claro);
+    width: 100%;
+    border: 0.5px solid darkgray;
+    border-radius: 5px;
+    font-size: 24px;
+    color: var(--branco);
+    padding: 24px;
+    box-sizing: border-box;
+}

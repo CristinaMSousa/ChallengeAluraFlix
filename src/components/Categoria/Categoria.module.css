@@ -1,0 +1,13 @@
+.categoria{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 360px;
+    height: 54px;
+    font-size: 32px;
+    font-weight: 400;
+    color: var(--branco);
+    border-radius: 5px;
+    margin: 52px 0;
+}
+

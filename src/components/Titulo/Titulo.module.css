@@ -1,0 +1,6 @@
+.texto{
+    font-size: 32px;
+    font-weight: 400;
+    color: var(--cor-cinza-claro);
+    text-align: center;
+}

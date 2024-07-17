@@ -1,0 +1,8 @@
+.formulario{
+    display: flex;
+    justify-content: center;
+}
+.formulario form{
+    width: 80%;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.5);
+}

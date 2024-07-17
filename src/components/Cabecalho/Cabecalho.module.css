@@ -1,0 +1,29 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+}
+.cabecalho nav {
+    display: flex;
+    flex-wrap: wrap;
+    width: 388px;
+    height: 54px;
+    gap: 25px;
+}
+.cabecalho nav :hover{
+    color: var(--azul);
+    background-color: var(--);
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--preto-claro);
+    padding: 0;
+    width: 180px;
+    height: 54px;
+    border: 2px solid var(--cor-cinza-claro);
+    border-radius: 5px;
+}
+

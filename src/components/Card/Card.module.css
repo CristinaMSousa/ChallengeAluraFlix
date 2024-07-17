@@ -1,0 +1,19 @@
+.card{
+    width: 300px;
+    height: 300px;
+}
+.imagem{
+    width: 296px;
+    height: 200px;
+    border: 3px solid var(--preto);
+}
+.icones{
+    display: flex;
+    width: 300px;
+    height: 54px;
+    gap: 20px;
+    background-color: var(--preto);
+}
+p{
+    font-size: 18px;
+}
